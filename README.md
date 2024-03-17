@@ -1,10 +1,14 @@
 # Google_playstore_Apps_Dashboard
 
 Overview
-This repository contains the code and resources for my project analyzing the Google Play Store dataset. The project includes:
+
+This repository contains the code and resources for my project analyzing the Google Play Store dataset.
+
+The project includes:
 
 A dynamic dashboard created using Tableau for visualizing key insights from the Google Play Store dataset.
 Code for sorting applications based on price, ratings, and installs, and applying filters for easy searches based on various criteria such as Android versions, categories, and content ratings.
+
 Tableau Dashboard
 I have created a dynamic dashboard using Tableau to visualize insights from the Google Play Store dataset. You can view the dashboard here.
 
